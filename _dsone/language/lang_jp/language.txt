@@ -3,7 +3,7 @@ setup=設定
 save=セーブ
 cheat=チート
 Hotkey=ホットキー
-gbaLink=GBA Link
+gbaLink=GBA Extend
 
 [setup menu]
 item0=ＳＤスピード
@@ -65,8 +65,9 @@ item0=オン
 item1=オフ
 
 [gbaLink menu]
-item0=オン
-item1=オフ
+item0=NULL
+item1=Link
+item2=Rumble
 
 [brightness menu]
 item0=レベル 1

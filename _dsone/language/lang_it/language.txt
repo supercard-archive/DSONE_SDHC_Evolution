@@ -3,7 +3,7 @@ setup=Setup
 save=Saver
 cheat=Cheat
 Hotkey=Scelta rapida
-gbaLink=GBA Link
+gbaLink=GBA Extend
 
 [setup menu]
 item0=SD speed
@@ -65,8 +65,9 @@ item0=Turn off
 item1=Turn on
 
 [gbaLink menu]
-item0=Turn off
-item1=Turn on
+item0=NULL
+item1=Link
+item2=Rumble
 
 [brightness menu]
 item0=Level 1

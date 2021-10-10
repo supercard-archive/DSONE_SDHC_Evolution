@@ -3,7 +3,7 @@ setup=Config
 save=Saver
 cheat=Trucos
 Hotkey=Hotkey
-gbaLink=GBA Link
+gbaLink=GBA Extend
 
 [setup menu]
 item0=Velocidad SD 
@@ -65,8 +65,9 @@ item0=Desactivar
 item1=Activar
 
 [gbaLink menu]
-item0=Desactivar
-item1=Activar
+item0=NULL
+item1=Link
+item2=Rumble
 
 [brightness menu]
 item0=Nivel 1

@@ -1,3 +1,9 @@
+update: 2010-08-21
+1, Fixed the crush bug of Brain Age Series
+2, Fixed the crush bug of Animal Crossing Chinese translated version.
+3, Added the rumble, browser funcation(set in the system menu) for slot-2 series, supports SC slot-2 carts and 3in1 cart.
+4, optimized read speed.
+
 Date:2010-08-06
 1. Fixed 5140 Galaxy Racers reading save data error problem.
 2. Fixed 0856 Bleach 2nd can not save problem.

@@ -3,7 +3,7 @@ setup=設置
 save=存檔
 cheat=金手指
 Hotkey=熱鍵設置
-gbaLink=GBA聯機
+gbaLink=GBA擴展
 
 [setup menu]
 item0=卡速
@@ -36,8 +36,9 @@ item0=clean
 item1=補丁
 
 [gbaLink menu]
-item0=關閉
-item1=開啟
+item0=無
+item1=聯動
+item2=振動
 
 [patch menu]
 item0=關閉
