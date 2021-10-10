@@ -2,6 +2,7 @@
 setup=設定
 save=セーブ
 cheat=チート
+Hotkey=ホットキー
 
 [setup menu]
 item0=ＳＤスピード

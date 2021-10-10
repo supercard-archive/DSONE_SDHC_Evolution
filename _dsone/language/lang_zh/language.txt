@@ -2,6 +2,7 @@
 setup=設置
 save=存檔
 cheat=金手指
+Hotkey=熱鍵設置
 
 [setup menu]
 item0=卡速

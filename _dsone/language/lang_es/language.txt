@@ -2,6 +2,7 @@
 setup=Config
 save=Saver
 cheat=Trucos
+Hotkey=Hotkey
 
 [setup menu]
 item0=Velocidad SD 

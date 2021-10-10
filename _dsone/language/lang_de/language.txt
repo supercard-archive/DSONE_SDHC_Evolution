@@ -2,6 +2,7 @@
 setup=Setup
 save=Saver
 cheat=Cheat
+Hotkey=Hotkey
 
 [setup menu]
 item0=SD speed
