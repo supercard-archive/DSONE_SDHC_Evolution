@@ -3,6 +3,7 @@ setup=設定
 save=セーブ
 cheat=チート
 Hotkey=ホットキー
+gbaLink=GBA Link
 
 [setup menu]
 item0=ＳＤスピード
@@ -60,6 +61,10 @@ item2=China ink
 item3=Pink
 
 [cheat menu]
+item0=オン
+item1=オフ
+
+[gbaLink menu]
 item0=オン
 item1=オフ
 

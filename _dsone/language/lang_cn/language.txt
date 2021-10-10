@@ -3,6 +3,7 @@ setup=设置
 save=存档
 cheat=金手指
 Hotkey=热键设置
+gbaLink=GBA联机
 
 [setup menu]
 item0=卡速
@@ -33,6 +34,10 @@ item8=全速
 [run mode menu]
 item0=clean
 item1=补丁
+
+[gbaLink menu]
+item0=关闭
+item1=开启
 
 [patch menu]
 item0=关闭

@@ -3,6 +3,7 @@ setup=Config
 save=Saver
 cheat=Trucos
 Hotkey=Hotkey
+gbaLink=GBA Link
 
 [setup menu]
 item0=Velocidad SD 
@@ -60,6 +61,10 @@ item2=China ink
 item3=Pink
 
 [cheat menu]
+item0=Desactivar
+item1=Activar
+
+[gbaLink menu]
 item0=Desactivar
 item1=Activar
 

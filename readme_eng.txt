@@ -1,3 +1,15 @@
+Date:2010-08-06
+1. Fixed 5140 Galaxy Racers reading save data error problem.
+2. Fixed 0856 Bleach 2nd can not save problem.
+3. Fixed 5116 Keshikasu Japanese version (clean mode)
+4. Fixed the cheat code blank list problem in some games. 
+5. Added GBA linkage function.
+Q: How to use GBA linkage function?
+A: Usage: NAME.nds, NAME.nds.gba, NAME.nds.gba.sav. These three files are DS game file, GBA game file, GBA game save. NAME which can be user defined. This feature is selected by the user to open, choose the interface in the  start menu, select System Settings option.
+6. Added the WII linkage functions.
+7. Added support ez3 in 1,  superCard lite, superCard MINI SD, superCard SD, superCard CF
+8. Added prevent halt in Castlevania: Portrait of Ruin.
+
 Date: 2010.06.18
 1. the Fix is only the OS (no other game files), the boot hang problem
 

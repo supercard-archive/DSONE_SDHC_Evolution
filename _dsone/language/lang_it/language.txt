@@ -3,6 +3,7 @@ setup=Setup
 save=Saver
 cheat=Cheat
 Hotkey=Scelta rapida
+gbaLink=GBA Link
 
 [setup menu]
 item0=SD speed
@@ -60,6 +61,10 @@ item2=China ink
 item3=Pink
 
 [cheat menu]
+item0=Turn off
+item1=Turn on
+
+[gbaLink menu]
 item0=Turn off
 item1=Turn on
 
