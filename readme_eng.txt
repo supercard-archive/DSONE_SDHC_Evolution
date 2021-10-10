@@ -1,3 +1,14 @@
+2011/04/27
+1, Fixed: Ace Attorney DS Homebrew crash bug
+2, Fixed: NitroTracker-v0.4 crash bug
+3, Fixed: Chinese Translated version pokemon black/white crash bug when battles with other players. 
+----------------------------------------------------------
+2011/03/11
+Fixed: Pokemon White/Black (Eur)(Ger)(Spa)
+----------------------------------------------------------
+2011/01/12
+Fixed the GBA union for Rockman(#0484) and Pokemon(#0026)
+
 Update: 2010-10-16
 1, Fixed file system (fixed the crash bug when there is space in filename)
 2, Fixed Kingdom Hearts Recoded
