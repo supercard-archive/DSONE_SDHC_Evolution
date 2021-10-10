@@ -1,3 +1,8 @@
+Date: 2010.06.07
+1. Fixed blank screen when turn on cheat code function.
+2. Fixed diy shin crash problem (hotkey setting)
+3. Fixed crash problem when setting language to French.
+
 Date :2010-06-01
 For performance improve:
 1, Anti-Piracy system upgrade, added new anti-piracy Engine.

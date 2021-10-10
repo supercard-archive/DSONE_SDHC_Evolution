@@ -9,7 +9,8 @@ Hotkey=Raccourcis
 item0=Vitesse SD
 item1=Mode d'exécution
 item2=Langue
-item3=Luminosit?item4=Sauv. multiple
+item3=Luminosité
+item4=Sauv. multiple
 item5=Thèmes
 
 [file handle menu]
@@ -53,7 +54,7 @@ item3=2M/4M
 
 [ui type menu]
 title=Thème
-text=Thème chang? OUI pour appliquer les changements, NON pour redémarrer plus tard.
+text=Thème modifié, OUI pour appliquer les changements, NON pour redémarrer plus tard.
 item0=Bleu
 item1=Noël
 item2=Encre de Chine
@@ -64,10 +65,10 @@ item0=Désactiver
 item1=Activer
 
 [brightness menu]
-item0=Intensit?1
-item1=Intensit?2
-item2=Intensit?3
-item3=Intensit?4
+item0=Intensité 1
+item1=Intensité 2
+item2=Intensité 3
+item3=Intensité 4
 
 [language menu]
 title=Attention!
@@ -89,7 +90,8 @@ item2=Triche
 
 [text wnd info]
 title=Attention!
-item0=%s fichier inexistant ou endommag?item1=Doc. Jeux
+item0=%s fichier inexistant ou endommagé
+item1=Doc. Jeux
 
 [slow wnd]
 title=Ralentissement
@@ -111,34 +113,34 @@ text=Erreur lors de la copie
 
 [stop copying file]
 title=Confirmer
-text=Arrêter la copie?
+text=Arrêter la copie ?
 
 [no free space]
-title=Erreur!
+title=Erreur !
 text=Pas assez d'espace, copie annulée
 
 [copy file exists]
 title=Attention!
-text=Nom de fichier déj?existant, OUI pour écraser le fichier existant?
+text=Nom de fichier déjà existant, OUI pour écraser le fichier existant?
 
 [copy dest is directory]
-title=Erreur!
-text=Répertoire déj?existant, copie impossible
+title=Erreur !
+text=Répertoire déjà existant, copie impossible
 
 [move dest is directory]
-title=Erreur!
-text=Répertoire déj?existant, déplacement impossible
+title=Erreur !
+text=Répertoire déjà existant, déplacement impossible
 
 [no copy dir]
-title=Erreur!
+title=Erreur !
 text=Impossible de copier/déplacer un répertoire
 
 [confirm delete file]
 title=Confirmer
-text=L'effacement sera définitif, OUI pour continuer? "%s"?
+text=L'effacement sera définitif, OUI pour continuer ? "%s"?
 
 [do not delete directory]
-title=Attention!
+title=Attention !
 text=Le répertoire n'est pas vide, impossible de l'effacer
 
 [setting window]
@@ -146,7 +148,7 @@ ok=OUI
 savetype=Taille Sauv.
 cancel=Annuler
 confirm=Confirmer
-confirm_text = Enregistrer les réglages?
+confirm_text = Enregistrer les réglages ?
 
 [main interface title]
 item0=Retour au Jeu
@@ -154,12 +156,13 @@ item1=Doc. Jeu
 item2=Sauvegarde
 item3=Chargement
 item4=Ralentissement
-item5=Luminosit?item6=Triche
+item5=Luminosité
+item6=Triche
 item7=Redémarrer
 
 [disk info]
 total=Espace disque: %s
-used=Espace Utilis? %s
+used=Espace Utilisé %s
 free=Espace Restant: %s
 
 [end]
