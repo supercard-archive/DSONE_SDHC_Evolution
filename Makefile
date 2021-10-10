@@ -34,6 +34,7 @@ OBJS = SCFW.SC \
 	_dsone/skin/black/Thumbs.db \
 	_dsone/skin/black/activeitem.bmp \
 	_dsone/skin/black/btn.bmp \
+	_dsone/skin/black/cheat_clear_all_btn.bmp \
 	_dsone/skin/black/cheatbg.bmp \
 	_dsone/skin/black/cheatbtn.bmp \
 	_dsone/skin/black/cheatmenubtn.bmp \
@@ -82,6 +83,7 @@ OBJS = SCFW.SC \
 	_dsone/skin/black/upperbg.bmp \
 	_dsone/skin/christmas/activeitem.bmp \
 	_dsone/skin/christmas/btn.bmp \
+	_dsone/skin/christmas/cheat_clear_all_btn.bmp \
 	_dsone/skin/christmas/cheatbg.bmp \
 	_dsone/skin/christmas/cheatbtn.bmp \
 	_dsone/skin/christmas/cheatmenubtn.bmp \
@@ -128,6 +130,7 @@ OBJS = SCFW.SC \
 	_dsone/skin/default/Thumbs.db \
 	_dsone/skin/default/activeitem.bmp \
 	_dsone/skin/default/btn.bmp \
+	_dsone/skin/default/cheat_clear_all_btn.bmp \
 	_dsone/skin/default/cheatbg.bmp \
 	_dsone/skin/default/cheatbtn.bmp \
 	_dsone/skin/default/cheatmenubtn.bmp \
@@ -176,6 +179,7 @@ OBJS = SCFW.SC \
 	_dsone/skin/pink/Thumbs.db \
 	_dsone/skin/pink/activeitem.bmp \
 	_dsone/skin/pink/btn.bmp \
+	_dsone/skin/pink/cheat_clear_all_btn.bmp \
 	_dsone/skin/pink/cheatbg.bmp \
 	_dsone/skin/pink/cheatbtn.bmp \
 	_dsone/skin/pink/cheatmenubtn.bmp \
@@ -222,7 +226,8 @@ OBJS = SCFW.SC \
 	_dsone/system1.dat \
 	_dsone/system2.dat \
 	_dsone/systemp.bin \
-	_dsone/user/asc10.fon.bin
+	_dsone/user/asc10.fon.bin \
+	readme.txt
 SRCS = SCFW.SC.hex \
 	_dsone/didl.dldi.hex \
 	_dsone/ds1patch.dat.hex \
