@@ -1,3 +1,6 @@
+Date: 2010.06.18
+1. the Fix is only the OS (no other game files), the boot hang problem
+
 Date: 2010.06.07
 1. Fixed blank screen when turn on cheat code function.
 2. Fixed diy shin crash problem (hotkey setting)
