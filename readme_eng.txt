@@ -1,3 +1,59 @@
+2012-10-30
+Fixed for 
+6132 每 Pokemon: Weisse Edition 2 (GER) 
+6130 每 Pokemon: Schwarze Edition 2 (GER) 
+6129 每 Pokemon: Versione Nera 2 (ITA)
+6127 每 Pokemon: Versione Bianca 2 (ITA)
+6128 每 Pokemon: Edicion Blanca 2 (SPA)
+6109 每 Pokemon: Edicion negra 2 (SPA)
+6126 每 Pokemon: Version Blanche 2 (FR)Blanche
+6125 每 Pokemon: Version Noire 2 (FR)
+6110 每 Pokemon: Black Version 2 (USA)
+6108 每 Pokemon: White Version 2 (USA)
+6044 每 Pokemon: White Version 2 (JPN)
+6045 每 Pokemon: Black Version 2 (JPN)
+----------------------------------------------------------
+2012-08-03
+Fixed for Bakuman: The Road to Becoming a Manga Artist
+----------------------------------------------------------
+2012-06-26
+Fixed for Pokemon Black2ㄛPokemon White2
+----------------------------------------------------------
+2012-06-13
+Fixed for  Captain America: Super Soldier (U)
+Fixed for  Captain America: Super Soldier (E)
+----------------------------------------------------------
+2012-05-21
+Fixed for.. 
+5782 -用奈仿午覦及馱滇 閼及伬及藹躓
+5811- All Kamen Rider: Rider Generation
+5994 - Pokemon + Nobunaga no Yabou
+0616 - Meitantei Conan - Kakokara no Zensou Kyoku
+----------------------------------------------------------
+2011-12-13
+Fixed for Metal Max 2 reloaded (J)
+----------------------------------------------------------
+2011-11-30
+Fixed for Power Rangers Samurai(U)
+----------------------------------------------------------
+2011-11-21
+Fixed for One Piece Gigant Battle 2(J)
+----------------------------------------------------------
+2011-11-8
+Fixed for Camping Mama Papa(U)
+----------------------------------------------------------
+2011-9-23
+Fixed Kirby Mass Attack(U)
+----------------------------------------------------------
+2011-9-8
+Fixed for some Pokemon B/W modified version
+----------------------------------------------------------
+2011-9-3
+New patch for Atsumete Kirby(Chinese)!
+----------------------------------------------------------
+2011-7-18
+1, Fixed: Captain America: Super Soldier(E)
+----------------------------------------------------------
 2011/04/27
 1, Fixed: Ace Attorney DS Homebrew crash bug
 2, Fixed: NitroTracker-v0.4 crash bug
@@ -8,59 +64,20 @@ Fixed: Pokemon White/Black (Eur)(Ger)(Spa)
 ----------------------------------------------------------
 2011/01/12
 Fixed the GBA union for Rockman(#0484) and Pokemon(#0026)
-
-Update: 2010-10-16
-1, Fixed file system (fixed the crash bug when there is space in filename)
-2, Fixed Kingdom Hearts Recoded
-3, Fixed Dementium 2(JP&EU)
-4, Added AP manually set (Press Y to call out game info menu and turn on/off it. Default as Enable.)
-
-update: 2010-08-21
-1, Fixed the crush bug of Brain Age Series
-2, Fixed the crush bug of Animal Crossing Chinese translated version.
-3, Added the rumble, browser funcation(set in the system menu) for slot-2 series, supports SC slot-2 carts and 3in1 cart.
-4, optimized read speed.
-
-Date:2010-08-06
-1. Fixed 5140 Galaxy Racers reading save data error problem.
-2. Fixed 0856 Bleach 2nd can not save problem.
-3. Fixed 5116 Keshikasu Japanese version (clean mode)
-4. Fixed the cheat code blank list problem in some games. 
-5. Added GBA linkage function.
-Q: How to use GBA linkage function?
-A: Usage: NAME.nds, NAME.nds.gba, NAME.nds.gba.sav. These three files are DS game file, GBA game file, GBA game save. NAME which can be user defined. This feature is selected by the user to open, choose the interface in the  start menu, select System Settings option.
-6. Added the WII linkage functions.
-7. Added support ez3 in 1,  superCard lite, superCard MINI SD, superCard SD, superCard CF
-8. Added prevent halt in Castlevania: Portrait of Ruin.
-
-Date: 2010.06.18
-1. the Fix is only the OS (no other game files), the boot hang problem
-
-Date: 2010.06.07
-1. Fixed blank screen when turn on cheat code function.
-2. Fixed diy shin crash problem (hotkey setting)
-3. Fixed crash problem when setting language to French.
-
-Date :2010-06-01
-For performance improve:
-1, Anti-Piracy system upgrade, added new anti-piracy Engine.
-2, Fixed some games problem:
-GameWatch Game Collection
-4825 - Saku Saku Jinkou Kokyuu Care Training (J)
-4877 - How to Train Your Dragon (can not save)
-4900 - Dragon Quest Monsters Posts joker2 (J)
-4933 - Dementium 2 (U)
-4951 - Are You Smarter than a 5th Grader? Game Time
-4958 - Captain Tsubasa: Gekito No Kiseki(J)
-4963 - Super Robot Taisen OG Saga Masou Kishin THE LORD OF ELEMENTAL (J)
-4967 - Create Club DS: World Challenge 2010 (J)
-         - States husband's super-blood! Plus Football League
-
- Clean mode
-4952 - Prince of Persia: The Forgotten Sands (E)
-
-For UI update:
-1, The skin can customize their own
-2, Added the hot key customize defined
-
-Note: Old version patch database can not be use in new OS. 
+----------------------------------------------------------
+2010/12/22
+Fixed the downloadplay issue for some games
+----------------------------------------------------------
+2010/12/17
+We forgot to add the anti-crash codes for EUR/USA version of Castlevania: Portrait Of Ruin
+Added it now :p
+----------------------------------------------------------
+2010/11/24 Again
+We solve low-speed card problem for MvD(U) before. 
+But we found u may get a black screen @stage6-2, so we updated again.
+----------------------------------------------------------
+2010/11/24
+Improved the patch for Mario vs Donkey Kong: Mini-land Mayhem! (U), improved card reading mode for games.
+----------------------------------------------------------
+2010/11/13 
+Fixed New Carnival Funfair Games(EUR) with PATCH mode.
