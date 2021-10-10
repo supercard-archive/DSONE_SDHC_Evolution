@@ -22,7 +22,12 @@ item3=刪除
 item0=1x倍速
 item1=2x倍速
 item2=3x倍速
-item3=全速
+item3=4x倍速
+item4=5x倍速
+item5=6x倍速
+item6=7x倍速
+item7=8x倍速
+item8=全速
 
 [run mode menu]
 item0=clean

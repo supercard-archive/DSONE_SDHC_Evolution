@@ -6,14 +6,14 @@ cheat=Triche
 
 [setup menu]
 item0=Vitesse SD
-item1=Mode d'Exécution
+item1=Mode d'exécution
 item2=Langue
-item3=Luminosit?
-item4=Sauv. Multiple
-item5=Thème
+item3=Luminosité
+item4=Sauv. multiple
+item5=Thèmes
 
 [file handle menu]
-noText=Presse-Papier vide 
+noText=Presse-papier vide
 item0=Copier
 item1=Couper
 item2=Coller
@@ -23,15 +23,20 @@ item3=Effacer
 item0=1x
 item1=2x
 item2=3x
-item3=Max.
+item3=4x
+item4=5x
+item5=6x
+item6=7x
+item7=8x
+item8=Max.
 
 [run mode menu]
 item0=Clean
 item1=Patch
 
 [patch menu]
-item0=Activ?
-item1=Désactiv?
+item0=Activer
+item1=Désactiver
 
 [archive type menu]
 item0=Sauv. 0
@@ -48,21 +53,21 @@ item3=2M/4M
 
 [ui type menu]
 title=Thème
-text=Thème chang? OUI pour appliquer les changements, NON pour redémarrer plus tard.
-item0=Blue
-item1=Christmas
-item2=China ink
-item3=Pink
+text=Thème changé, OUI pour appliquer les changements, NON pour redémarrer plus tard.
+item0=Bleu
+item1=Noël
+item2=Encre de Chine
+item3=Rose
 
 [cheat menu]
-item0=Désactiv?
-item1=Activ?
+item0=Désactiver
+item1=Activer
 
 [brightness menu]
-item0=Intensit?1
-item1=Intensit?2
-item2=Intensit?3
-item3=Intensit?4
+item0=Intensité 1
+item1=Intensité 2
+item2=Intensité 3
+item3=Intensité 4
 
 [language menu]
 title=Attention!
@@ -74,28 +79,28 @@ item3=Japanese
 item4=Français
 item5=Italiano
 item6=Deutsch
-item7=Espanol
+item7=Español
 item8=Korean
 
 [set game info]
-item0=N?Sauv.
-item1=Sauv.
+item0=Multi-sauv.
+item1=Taille sauv.
 item2=Triche
 
 [text wnd info]
 title=Attention!
-item0=%s fichier inexistant ou endommag?
+item0=%s fichier inexistant ou endommagé
 item1=Doc. Jeux
 
 [slow wnd]
 title=Ralentissement
-item0=Désactiv?
-item1=Activ?
+item0=Désactiver
+item1=Activer
 
 [message box]
 yes=OUI
 no=NON
-ok=OUI
+ok=OK
 cancel=Annuler
 
 [progress window]
@@ -115,15 +120,15 @@ text=Pas assez d'espace, copie annulée
 
 [copy file exists]
 title=Attention!
-text=Nom de fichier déj?existant, OUI pour écraser le fichier existant?
+text=Nom de fichier déjà existant, OUI pour écraser le fichier existant?
 
 [copy dest is directory]
 title=Erreur!
-text=Répertoire déj?existant, copie impossible
+text=Répertoire déjà existant, copie impossible
 
 [move dest is directory]
 title=Erreur!
-text=Répertoire déj?existant, déplacement impossible
+text=Répertoire déjà existant, déplacement impossible
 
 [no copy dir]
 title=Erreur!
@@ -150,14 +155,13 @@ item1=Doc. Jeu
 item2=Sauvegarde
 item3=Chargement
 item4=Ralentissement
-item5=Luminosit?
+item5=Luminosité
 item6=Triche
 item7=Redémarrer
 
-
 [disk info]
 total=Espace disque: %s
-used=Espace Utilis? %s
+used=Espace Utilisé: %s
 free=Espace Restant: %s
 
 [end]

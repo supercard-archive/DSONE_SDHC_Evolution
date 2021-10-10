@@ -30,6 +30,7 @@ OBJS = SCFW.SC \
 	_dsone/language/lang_zh/unicode.l2u \
 	_dsone/language/lang_zh/unicode.u2l \
 	_dsone/ndsinfo.dat \
+	_dsone/savemode.dat \
 	_dsone/skin/black/Thumbs.db \
 	_dsone/skin/black/activeitem.bmp \
 	_dsone/skin/black/btn.bmp \
@@ -243,6 +244,7 @@ SRCS = SCFW.SC.hex \
 	_dsone/language/lang_zh/unicode.l2u.hex \
 	_dsone/language/lang_zh/unicode.u2l.hex \
 	_dsone/ndsinfo.dat.hex \
+	_dsone/savemode.dat.hex \
 	_dsone/skin/black/Thumbs.db.hex \
 	_dsone/skin/black/icon/Thumbs.db.hex \
 	_dsone/skin/black/realtime/Thumbs.db.hex \
@@ -301,6 +303,9 @@ _dsone/user/asc10.fon.bin.hex: _dsone/user/asc10.fon.bin $(HD)
 	$(HD) $< > $@
 
 _dsone/system1.dat.hex: _dsone/system1.dat $(HD)
+	$(HD) $< > $@
+
+_dsone/savemode.dat.hex: _dsone/savemode.dat $(HD)
 	$(HD) $< > $@
 
 _dsone/system2.dat.hex: _dsone/system2.dat $(HD)
@@ -404,6 +409,9 @@ _dsone/user/asc10.fon.bin: _dsone/user/asc10.fon.bin.hex $(HD2B)
 	$(HD2B) $< > $@
 
 _dsone/system1.dat: _dsone/system1.dat.hex $(HD2B)
+	$(HD2B) $< > $@
+
+_dsone/savemode.dat: _dsone/savemode.dat.hex $(HD2B)
 	$(HD2B) $< > $@
 
 _dsone/system2.dat: _dsone/system2.dat.hex $(HD2B)

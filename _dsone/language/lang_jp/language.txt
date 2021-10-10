@@ -22,7 +22,12 @@ item3=削除
 item0=1x スピード
 item1=2x スピード
 item2=3x スピード
-item3=フールスピード
+item3=4x スピード
+item4=5x スピード
+item5=6x スピード
+item6=7x スピード
+item7=8x スピード
+item8=フールスピード
 
 [run mode menu]
 item0=クリーン

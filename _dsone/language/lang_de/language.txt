@@ -22,7 +22,12 @@ item3=Löschen
 item0=1x Speed
 item1=2x Speed
 item2=3x Speed
-item3=Schnell
+item3=4x Speed
+item4=5x Speed
+item5=6x Speed
+item6=7x Speed
+item7=8x Speed
+item8=Schnell
 
 [run mode menu]
 item0=Clean
