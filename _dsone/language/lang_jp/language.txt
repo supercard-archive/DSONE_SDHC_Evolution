@@ -64,6 +64,11 @@ item3=Pink
 item0=オン
 item1=オフ
 
+[AntiPiracy menu]
+item0=Turn on
+item1=Turn off
+item2=No support
+
 [gbaLink menu]
 item0=NULL
 item1=Link
@@ -92,6 +97,7 @@ item8=韓国語
 item0=マルチセーブ
 item1=セーブサイズ
 item2=チート
+item3=Bybass anti-piracy
 
 [text wnd info]
 title=注意！

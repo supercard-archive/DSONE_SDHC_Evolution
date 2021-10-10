@@ -64,6 +64,11 @@ item3=Rose
 item0=Désactiver
 item1=Activer
 
+[AntiPiracy menu]
+item0=Turn on
+item1=Turn off
+item2=No support
+
 [gbaLink menu]
 item0=NULL
 item1=Link
@@ -92,6 +97,7 @@ item8=Korean
 item0=Multi-sauv.
 item1=Taille sauv.
 item2=Triche
+item3=Bybass anti-piracy
 
 [text wnd info]
 title=Attention!

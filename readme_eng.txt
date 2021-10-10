@@ -1,3 +1,9 @@
+Update: 2010-10-16
+1, Fixed file system (fixed the crash bug when there is space in filename)
+2, Fixed Kingdom Hearts Recoded
+3, Fixed Dementium 2(JP&EU)
+4, Added AP manually set (Press Y to call out game info menu and turn on/off it. Default as Enable.)
+
 update: 2010-08-21
 1, Fixed the crush bug of Brain Age Series
 2, Fixed the crush bug of Animal Crossing Chinese translated version.

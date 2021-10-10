@@ -70,6 +70,11 @@ item0=關閉
 item1=開啟
 item2=設置
 
+[AntiPiracy menu]
+item0=開啟
+item1=關閉
+item2=不支持
+
 [brightness menu]
 item0=亮度1
 item1=亮度2
@@ -93,6 +98,7 @@ item8=韓語
 item0=存檔選擇
 item1=存檔大小
 item2=金手指
+item3=反燒錄
 
 [text wnd info]
 title=警告
